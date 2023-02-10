@@ -41,33 +41,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/lampu_philips267'
-global.sgh = 'https://github.com/BaraXD'
-global.sgc = 'https://chat.whatsapp.com/JXlb6mMlQai77uQSXcmv5T'
-global.sdc = 'https://t.me/BotzzMeeOFC'
+global.sig = 'https://instagram.com/deepak_sharma4007'
+global.sgh = 'https://github.com/MADDOX-69'
+global.sgc = 'https://chat.whatsapp.com/El6k9GK3od870J94cxeH2Sl'
+global.sdc = 'https://t.me/Deepaksharma6'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083174508962'
-global.povo = '083174508962'
-global.pgopay = '083174508962'
-global.ppulsa = '083174508962'
-global.ppulsa2 = '08979530736'
-global.psaweria = 'https://saweria.co/BaraXDz'
+global.pdana = '916202316574'
+global.povo = '916202316574'
+global.pgopay = '916202316574'
+global.ppulsa = '916202316574'
+global.ppulsa2 = '9126202316574'
+global.psaweria = 'https://saweria.co/Deepak-69'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628979530736'
-global.nomorown = '6283174508962'
-global.namebot = 'BotzzMee-Md【﻿ＸｘＹｚ】'
-global.nameown = 'BaraXD'
+global.nomorbot = '916202316574'
+global.nomorown = '916202316574'
+global.namebot = 'Electron【﻿ＸｘＹｚ】'
+global.nameown = 'DEEPAK'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962'],
-  ['6283174508962', 'BotzzMee-Md【﻿ＸｘＹｚ】', true]
+  ['916202316574'],
+  ['916202316574'],
+  ['916202316574'],
+  ['916202316574', 'ELECTRON【﻿ＸｘＹｚ】', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -112,13 +112,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'BotzzMee-Md【﻿ＸｘＹｚ】' //Main Watermark
-global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ BotzzMee-Md¨˜ˆ”°⍣~•⊹٭„¸'
-global.wm3 = '☘︎ ʙᴏᴛᴢᴢᴍᴇᴇ-MD'
+global.wm = 'ELECTRON【﻿ＸｘＹｚ】' //Main Watermark
+global.wm2 = '¸„٭⊹•~⍣°”ˆ˜¨ DEEPAK-J¨˜ˆ”°⍣~•⊹٭„¸'
+global.wm3 = '☘︎ MD'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ 𝗕𝗮𝗿𝗮𝗫𝗗 ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ DEEPAK ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
